@@ -64,22 +64,24 @@
 # print(myDict)
 
 
+
 ###PROBLEM 2###
-##OWN ANSWER###
-
-# student_marks = {
-#     "maths" : int(input("Enter maths marks: ")),
-#     "science" : int(input("Enter science marks: ")),
-#     "social" : int(input("Enter social marks: "))
-# }
-# print(student_marks)
 
 
+# # # student_marks = {
+# # #     "maths" : int(input("Enter maths marks: ")),
+# # #     "science" : int(input("Enter science marks: ")),
+# # #     "social" : int(input("Enter social marks: "))
+# # # }
+# # # print(student_marks)
 
-# student_marks = {
-#     "subject1" = int(input("Enter sub1 marks: ")),
-#     "sub2" = int(input("Enter sub2 marks: ")),
-#     "sub3" = int(input("Enter sub3 marks: "))
+
+
+# # # student_marks = {
+# # #     "subject1" = int(input("Enter sub1 marks: ")),
+# # #     "sub2" = int(input("Enter sub2 marks: ")),
+# # #     "sub3" = int(input("Enter sub3 marks: "))
+
 
 
 # student_marks = {}
